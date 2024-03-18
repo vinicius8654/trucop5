@@ -76,7 +76,6 @@ function drawCenterArea() {
     fill(34, 39, 187);
     image(imgBaralho,105+i,202,50,70);
     }
-  
     
 }
 
