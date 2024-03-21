@@ -81,7 +81,7 @@ cartaj4= new  Sprite(-150,0);
 //if (refvirada==9){
 //console.log("Todas as "+forcas[0]+" são fortes .. eita manilha veiia");
 //}else{
-//console.log("todas as " + forcas[refvirada+1]+" São fortes .. eita manilhada veiaaaaaa uhh hu");
+//console.log(" todas as " + forcas[refvirada+1]+" São fortes .. eita manilhada veiaaaaaa uhh hu");
 }
 // a biblioteca P5 PERMITE QUE UTILIZEMOS SKETCHS PADRÕES DE DESENHO E SEMPRE TEREMOS
 // PRELOAD-SETUP - DRAW são funções que trabalham em comjunto.
